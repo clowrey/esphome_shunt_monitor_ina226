@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "terminal_block")(type "KiCad")(uri "C:/Users/hilo90mhz/Documents/GitHub/esphome_shunt_monitor_ina226/libraries/terminal_block.pretty")(options "")(descr ""))
+)
